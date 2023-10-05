@@ -1,0 +1,48 @@
+body {
+    background-color: #1B1924;
+    text-align: center;
+}
+
+#hero-img {
+    margin: 51px 150px 17px;
+}
+
+#hero-title {
+    font-family: 'Josefin Sans';
+    color: #fff;
+}
+
+textarea {
+    display: block;
+    margin: 0 auto 13px;
+    width: 314px;
+    height: 99px;
+    background-color: #444059;
+    border-radius: 8px;
+    padding: 16px 13px;
+    resize: none;
+    font-size: 17px;
+    color: #fff;
+    font-family: 'Inter';
+}
+
+textarea::placeholder {
+    color: #8F8F8F;
+}
+
+button {
+    width: 337px;
+    height: 61px;
+    color: #04131C;
+    background-color: #28A9F1;
+    font-family: 'Josefin Sans';
+    font-size: 22px;
+    font-weight: 700;
+    border-radius: 8px;
+}
+
+h3 {
+    color: #fff;
+    font-family: 'Josefin Sans';
+    font-size: 20px;
+}
