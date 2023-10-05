@@ -46,3 +46,14 @@ h3 {
     font-family: 'Josefin Sans';
     font-size: 20px;
 }
+
+.endorsement {
+    background-color: #fff;
+    color: #1B1924;;
+    width: 337px;
+    margin: 13px auto;
+    list-style: none;
+    font-family: 'Inter';
+    /* height: 50px; */
+    padding: 13px 16px;
+}
