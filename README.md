@@ -1,1 +1,1 @@
-# shopping-list
+# we-are-the-champions
